@@ -1,0 +1,23 @@
+{
+  "name": "BNTF Document Auto-Update",
+  "description": "Automatically updates iOS app when documents change",
+  "events": [
+    "push",
+    "release"
+  ],
+  "config": {
+    "url": "https://api.bntf.no/webhook/document-update",
+    "content_type": "application/json",
+    "secret": "bntf-document-webhook-secret"
+  },
+  "triggers": {
+    "on_push": true,
+    "on_pdf_change": true,
+    "on_index_update": true
+  },
+  "actions": [
+    "regenerate_index",
+    "notify_ios_app",
+    "update_cdn_cache"
+  ]
+}
