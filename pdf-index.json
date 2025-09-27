@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T16:22:28Z",
+  "lastUpdated": "2025-09-27T17:26:30Z",
   "baseUrl": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main",
   "documents": {
     "protokoller": [
@@ -654,7 +654,7 @@
     ],
     "vedtekter": [
       {
-        "id": "fb78ea8308a4",
+        "id": "ad1fb9b4e289",
         "name": "Vedtekter 2023-2024",
         "filename": "Vedtekter 2023-2024.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/vedtekter/Vedtekter%202023-2024.pdf",
@@ -662,10 +662,29 @@
         "size": 204080
       }
     ],
-    "policies": [],
+    "hovedavtalen": [
+      {
+        "id": "a6da42f58b35",
+        "name": "Hovedavtalen-2022-2025",
+        "filename": "Hovedavtalen-2022-2025.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/hovedavtalen/Hovedavtalen-2022-2025.pdf",
+        "category": "hovedavtalen",
+        "size": 440816
+      }
+    ],
+    "særavtale_bntf": [
+      {
+        "id": "8da5fb758827",
+        "name": "Særavtale",
+        "filename": "Særavtale.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/særavtale_bntf/S%C3%A6ravtale.pdf",
+        "category": "særavtale_bntf",
+        "size": 3665002
+      }
+    ],
     "overenskomsten": [
       {
-        "id": "f68e8ed92e03",
+        "id": "bd4745569d14",
         "name": "overenskomst",
         "filename": "overenskomst.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/overenskomsten/overenskomst.pdf",
@@ -673,25 +692,6 @@
         "size": 1163158
       }
     ],
-    "other": [
-      {
-        "id": "0014c9383417",
-        "name": "Hovedavtalen-2022-2025",
-        "filename": "Hovedavtalen-2022-2025.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/Hovedavtalen-2022-2025.pdf",
-        "category": "other",
-        "size": 440816
-      }
-    ],
-    "særavtale": [
-      {
-        "id": "e1cbb9840b1e",
-        "name": "Særavtale",
-        "filename": "Særavtale.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/særavtale/S%C3%A6ravtale.pdf",
-        "category": "særavtale",
-        "size": 3665002
-      }
-    ]
+    "other": []
   }
 }
