@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T16:02:47Z",
+  "lastUpdated": "2025-09-27T16:15:42Z",
   "baseUrl": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main",
   "documents": {
     "protokoller": [
@@ -662,7 +662,6 @@
         "size": 204080
       }
     ],
-    "agreements": [],
     "policies": [],
     "overenskomsten": [],
     "other": [
@@ -675,20 +674,22 @@
         "size": 440816
       },
       {
-        "id": "e1cbb9840b1e",
-        "name": "Særavtale",
-        "filename": "Særavtale.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/S%C3%A6ravtale.pdf",
-        "category": "other",
-        "size": 3665002
-      },
-      {
         "id": "f68e8ed92e03",
         "name": "overenskomst",
         "filename": "overenskomst.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/overenskomst.pdf",
         "category": "other",
         "size": 1163158
+      }
+    ],
+    "særavtale": [
+      {
+        "id": "e1cbb9840b1e",
+        "name": "Særavtale",
+        "filename": "Særavtale.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/særavtale/S%C3%A6ravtale.pdf",
+        "category": "særavtale",
+        "size": 3665002
       }
     ]
   }
