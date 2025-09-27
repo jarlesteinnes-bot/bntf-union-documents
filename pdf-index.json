@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T16:15:42Z",
+  "lastUpdated": "2025-09-27T16:22:28Z",
   "baseUrl": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main",
   "documents": {
     "protokoller": [
@@ -663,7 +663,16 @@
       }
     ],
     "policies": [],
-    "overenskomsten": [],
+    "overenskomsten": [
+      {
+        "id": "f68e8ed92e03",
+        "name": "overenskomst",
+        "filename": "overenskomst.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/overenskomsten/overenskomst.pdf",
+        "category": "overenskomsten",
+        "size": 1163158
+      }
+    ],
     "other": [
       {
         "id": "0014c9383417",
@@ -672,14 +681,6 @@
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/Hovedavtalen-2022-2025.pdf",
         "category": "other",
         "size": 440816
-      },
-      {
-        "id": "f68e8ed92e03",
-        "name": "overenskomst",
-        "filename": "overenskomst.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/overenskomst.pdf",
-        "category": "other",
-        "size": 1163158
       }
     ],
     "særavtale": [
