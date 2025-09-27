@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2025-09-27T17:38:45Z",
+  "lastUpdated": "2025-09-27T17:57:43Z",
   "baseUrl": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main",
+  "version": "2.0",
+  "categories": {
+    "protokoller": "Protokoller",
+    "vedtekter": "Vedtekter",
+    "særavtale_bntf": "Særavtale BNTF",
+    "hovedavtalen": "Hovedavtalen YS/NHO",
+    "overenskomsten": "Overenskomsten",
+    "other": "Other"
+  },
+  "categoryIcons": {
+    "protokoller": "📋",
+    "vedtekter": "📜",
+    "særavtale_bntf": "🚁",
+    "hovedavtalen": "🏢",
+    "overenskomsten": "📄",
+    "other": "📁"
+  },
   "documents": {
     "protokoller": [
       {
@@ -9,7 +26,11 @@
         "filename": "2006-001 Rev 1 reisetillegg sporadisk reising onshore, original.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2006-001%20Rev%201%20reisetillegg%20sporadisk%20reising%20onshore%2C%20original.pdf",
         "category": "protokoller",
-        "size": 30140
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 30140,
+        "modified": "2025-09-27T12:37:06.122456+00:00",
+        "hash": "473115f0008541172f02ab7adea2ade7"
       },
       {
         "id": "b3169ef94ec0",
@@ -17,7 +38,11 @@
         "filename": "2007-007 Rev. 1 Lærlinger i selskapet.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2007-007%20Rev.%201%20L%C3%A6rlinger%20i%20selskapet.pdf",
         "category": "protokoller",
-        "size": 32000
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 32000,
+        "modified": "2025-09-27T12:53:25.647621+00:00",
+        "hash": "333ab57c21198b669d38fde4001ef43c"
       },
       {
         "id": "09c9bc320fa3",
@@ -25,7 +50,11 @@
         "filename": "2007-013 Rev 4 Arbeidsordning Line Maintenance Support, Sola.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2007-013%20Rev%204%20Arbeidsordning%20Line%20Maintenance%20Support%2C%20Sola.pdf",
         "category": "protokoller",
-        "size": 148026
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 148026,
+        "modified": "2025-09-27T12:37:06.123497+00:00",
+        "hash": "93c2853513888c3c5349523e26f47487"
       },
       {
         "id": "f355343347b3",
@@ -33,7 +62,11 @@
         "filename": "2009-002 Beredskapsvakt Base Bergen Revisjon A.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-002%20Beredskapsvakt%20Base%20Bergen%20Revisjon%20A.pdf",
         "category": "protokoller",
-        "size": 55422
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 55422,
+        "modified": "2025-09-27T12:37:06.123955+00:00",
+        "hash": "52931f5783cd3c4b9479b7826a8136a8"
       },
       {
         "id": "b2910c834723",
@@ -41,7 +74,11 @@
         "filename": "2009-003 Beredskapsvakt Base Sola Revisjon A.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-003%20Beredskapsvakt%20Base%20Sola%20Revisjon%20A.pdf",
         "category": "protokoller",
-        "size": 56081
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 56081,
+        "modified": "2025-09-27T12:37:06.124393+00:00",
+        "hash": "79b60edd771cbd44a9c108bf8664b8dc"
       },
       {
         "id": "0994d8c6665d",
@@ -49,7 +86,11 @@
         "filename": "2009-008 Betingelser ifm StatoilHydro-ENI-kontrakt-AWSAR og tilbringer.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-008%20Betingelser%20ifm%20StatoilHydro-ENI-kontrakt-AWSAR%20og%20tilbringer.pdf",
         "category": "protokoller",
-        "size": 255459
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 255459,
+        "modified": "2025-09-27T12:37:06.124990+00:00",
+        "hash": "06be1eb6285afda36c0e127acd3aaa26"
       },
       {
         "id": "590e12751932",
@@ -57,7 +98,11 @@
         "filename": "2009-008 Betingelser ifm. StatoilHydro-ENI kontrakt, AWSAR tilbringer rev 2-1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-008%20Betingelser%20ifm.%20StatoilHydro-ENI%20kontrakt%2C%20AWSAR%20tilbringer%20rev%202-1.pdf",
         "category": "protokoller",
-        "size": 128629
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 128629,
+        "modified": "2025-09-27T12:37:06.125476+00:00",
+        "hash": "45eb48f3c6a14cfb9324150f989554d5"
       },
       {
         "id": "c83dd7f7aa36",
@@ -65,7 +110,11 @@
         "filename": "2009-008_20Betingelser_20ifm._20StatoilHydro-ENI_20kontrakt,_20AWSAR_20tilbringer_20rev_202.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-008_20Betingelser_20ifm._20StatoilHydro-ENI_20kontrakt%2C_20AWSAR_20tilbringer_20rev_202.pdf",
         "category": "protokoller",
-        "size": 128629
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 128629,
+        "modified": "2025-09-27T12:37:06.125993+00:00",
+        "hash": "45eb48f3c6a14cfb9324150f989554d5"
       },
       {
         "id": "7d3eb041341e",
@@ -73,7 +122,11 @@
         "filename": "2009-011 Sporadiske reiseoppdrag utenlands.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2009-011%20Sporadiske%20reiseoppdrag%20utenlands.pdf",
         "category": "protokoller",
-        "size": 69217
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 69217,
+        "modified": "2025-09-27T12:37:06.126345+00:00",
+        "hash": "5cac57f0f586708ac2046c19ede1b33f"
       },
       {
         "id": "b18dd098ddb1",
@@ -81,7 +134,11 @@
         "filename": "2010-008 Draupner nødberedskap, 15. min. responstid.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2010-008%20Draupner%20n%C3%B8dberedskap%2C%2015.%20min.%20responstid.pdf",
         "category": "protokoller",
-        "size": 39559
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 39559,
+        "modified": "2025-09-27T12:37:06.126736+00:00",
+        "hash": "54494726a42ef446a1e623b69c8b2c28"
       },
       {
         "id": "fdd14d306ae8",
@@ -89,7 +146,11 @@
         "filename": "2011-005 Drift av base Brønnøysund.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2011-005%20Drift%20av%20base%20Br%C3%B8nn%C3%B8ysund.pdf",
         "category": "protokoller",
-        "size": 210871
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 210871,
+        "modified": "2025-09-27T12:37:06.127217+00:00",
+        "hash": "c639be911753d7c25391899757a86e17"
       },
       {
         "id": "4ff5d603955c",
@@ -97,7 +158,11 @@
         "filename": "2011-006 Bergen Basis skift.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2011-006%20Bergen%20Basis%20skift.pdf",
         "category": "protokoller",
-        "size": 753001
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 753001,
+        "modified": "2025-09-27T12:37:06.128197+00:00",
+        "hash": "4d9abafc5aec2989daa0f8757c1645dc"
       },
       {
         "id": "3a1fbff0f73b",
@@ -105,7 +170,11 @@
         "filename": "2012-004 Senior heisoperatør.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2012-004%20Senior%20heisoperat%C3%B8r.pdf",
         "category": "protokoller",
-        "size": 33063
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 33063,
+        "modified": "2025-09-27T12:37:06.128568+00:00",
+        "hash": "b6defb940060c40ce188b58abcaccae8"
       },
       {
         "id": "e8dc0fd036d3",
@@ -113,7 +182,11 @@
         "filename": "2012-012 Avvikling av fedrekvote (pappapermisjon).pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2012-012%20Avvikling%20av%20fedrekvote%20%28pappapermisjon%29.pdf",
         "category": "protokoller",
-        "size": 37099
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 37099,
+        "modified": "2025-09-27T12:37:06.129148+00:00",
+        "hash": "aec9c1ed3592ca343c2f25ab45d22c8f"
       },
       {
         "id": "64abf526e88c",
@@ -121,7 +194,11 @@
         "filename": "2013-002 Utsettelse av Vedlegg A i Særavtalen.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-002%20Utsettelse%20av%20Vedlegg%20A%20i%20S%C3%A6ravtalen.pdf",
         "category": "protokoller",
-        "size": 32393
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 32393,
+        "modified": "2025-09-27T12:37:06.129646+00:00",
+        "hash": "1523857439b5764493a58893d6de9303"
       },
       {
         "id": "9ad2b728b4a4",
@@ -129,7 +206,11 @@
         "filename": "2013-005 Arbeidsordning for Offshore base Ekofisk med SAR-Shuttle.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-005%20Arbeidsordning%20for%20Offshore%20base%20Ekofisk%20med%20SAR-Shuttle.pdf",
         "category": "protokoller",
-        "size": 135166
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 135166,
+        "modified": "2025-09-27T12:37:06.130363+00:00",
+        "hash": "87c6ec3057abe7d610fbaf54f8d4b285"
       },
       {
         "id": "d94d0edd1209",
@@ -137,7 +218,11 @@
         "filename": "2013-005 arbeidsordning for Offshore base Ekofisk med SAR-Shuttle revisjon 2.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-005%20arbeidsordning%20for%20Offshore%20base%20Ekofisk%20med%20SAR-Shuttle%20revisjon%202.pdf",
         "category": "protokoller",
-        "size": 143169
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 143169,
+        "modified": "2025-09-27T12:37:06.130904+00:00",
+        "hash": "ea8587f88322210f5b73be9427e27b1f"
       },
       {
         "id": "b9ea9571de00",
@@ -145,7 +230,11 @@
         "filename": "2013-006 Arbeidsordning for overgang og drift av Hammerfest base og Offshore base Ekofisk Rev.2.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-006%20Arbeidsordning%20for%20overgang%20og%20drift%20av%20Hammerfest%20base%20og%20Offshore%20base%20Ekofisk%20Rev.2.pdf",
         "category": "protokoller",
-        "size": 127724
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 127724,
+        "modified": "2025-09-27T12:37:06.131675+00:00",
+        "hash": "99901f48d493bb98725bb214cea82e6d"
       },
       {
         "id": "91177f1ab402",
@@ -153,7 +242,11 @@
         "filename": "2013-006 Arbeidsordning for overgang og drift av Hammerfest base og Offshore base Ekofisk. Rev 1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-006%20Arbeidsordning%20for%20overgang%20og%20drift%20av%20Hammerfest%20base%20og%20Offshore%20base%20Ekofisk.%20Rev%201.pdf",
         "category": "protokoller",
-        "size": 122852
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 122852,
+        "modified": "2025-09-27T12:37:06.132315+00:00",
+        "hash": "472704f2826f1c5aacdb4a82e336e833"
       },
       {
         "id": "c507a64e5bb1",
@@ -161,7 +254,11 @@
         "filename": "2013-006 Rev 3 Arbeidsordning for overgang og drift av Hammerfest base og Offshore base Ekofisk.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-006%20Rev%203%20Arbeidsordning%20for%20overgang%20og%20drift%20av%20Hammerfest%20base%20og%20Offshore%20base%20Ekofisk.pdf",
         "category": "protokoller",
-        "size": 174607
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 174607,
+        "modified": "2025-09-27T12:37:06.132877+00:00",
+        "hash": "d4bc132a53389eaadfd49329bf674414"
       },
       {
         "id": "fad1b76e4da1",
@@ -169,7 +266,11 @@
         "filename": "2013-012 Heisoperatør utsjekk i Hammerfest Rev. 01.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2013-012%20Heisoperat%C3%B8r%20utsjekk%20i%20Hammerfest%20Rev.%2001.pdf",
         "category": "protokoller",
-        "size": 143206
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 143206,
+        "modified": "2025-09-27T12:37:06.133659+00:00",
+        "hash": "46d05a6b7cae59efd30312cb2fbd0c15"
       },
       {
         "id": "283be3cf9416",
@@ -177,7 +278,11 @@
         "filename": "2014-002 Midlertidig arbeidsordning Line Maintenance Sola.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-002%20Midlertidig%20arbeidsordning%20Line%20Maintenance%20Sola.pdf",
         "category": "protokoller",
-        "size": 56933
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 56933,
+        "modified": "2025-09-27T12:37:06.134043+00:00",
+        "hash": "d814a66d9b14e65397f8b5efdafafc66"
       },
       {
         "id": "378d5476c04e",
@@ -185,15 +290,11 @@
         "filename": "2014-005 Medevac beredskap i Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-005%20Medevac%20beredskap%20i%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 18868
-      },
-      {
-        "id": "2aa893e73b0a",
-        "name": "2014-007 Rev 02 Shuttle operasjon Sola",
-        "filename": "2014-007 Rev 02 Shuttle operasjon Sola.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-007%20Rev%2002%20Shuttle%20operasjon%20Sola.pdf",
-        "category": "protokoller",
-        "size": 38066
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 18868,
+        "modified": "2025-09-27T12:37:06.134595+00:00",
+        "hash": "17d78fc3d4ac4b21ac86364a7a7d7c2b"
       },
       {
         "id": "134d36d7f8be",
@@ -201,7 +302,23 @@
         "filename": "2014-007 Rev 02 Shuttle operasjon Sola(1).pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-007%20Rev%2002%20Shuttle%20operasjon%20Sola%281%29.pdf",
         "category": "protokoller",
-        "size": 40564
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 40564,
+        "modified": "2025-09-27T12:37:06.134957+00:00",
+        "hash": "8036f372762aaa2eab39d9254ee2c8cb"
+      },
+      {
+        "id": "2aa893e73b0a",
+        "name": "2014-007 Rev 02 Shuttle operasjon Sola",
+        "filename": "2014-007 Rev 02 Shuttle operasjon Sola.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-007%20Rev%2002%20Shuttle%20operasjon%20Sola.pdf",
+        "category": "protokoller",
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38066,
+        "modified": "2025-09-27T12:37:06.135235+00:00",
+        "hash": "9fdc98a641e4f26a2c829bbcabe02b5a"
       },
       {
         "id": "db719efbd35b",
@@ -209,7 +326,11 @@
         "filename": "2014-011 Sola Skiftplan 4 skift, 8 uker.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-011%20Sola%20Skiftplan%204%20skift%2C%208%20uker.pdf",
         "category": "protokoller",
-        "size": 113353
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 113353,
+        "modified": "2025-09-27T12:37:06.135580+00:00",
+        "hash": "576ea0d33c782a6d2d48b2fc7550ddf0"
       },
       {
         "id": "c624ef70ba99",
@@ -217,7 +338,11 @@
         "filename": "2014-011, Rev 01 Sola Skiftplan 4 skift.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2014-011%2C%20Rev%2001%20Sola%20Skiftplan%204%20skift.pdf",
         "category": "protokoller",
-        "size": 53842
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 53842,
+        "modified": "2025-09-27T12:37:06.135916+00:00",
+        "hash": "bce35b8f128d93873bf79202b544fdc8"
       },
       {
         "id": "0885d3105957",
@@ -225,7 +350,11 @@
         "filename": "2015-003 Arbeidsordning Line Maintenance Support, Sola.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-003%20Arbeidsordning%20Line%20Maintenance%20Support%2C%20Sola.pdf",
         "category": "protokoller",
-        "size": 95661
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 95661,
+        "modified": "2025-09-27T12:37:06.136309+00:00",
+        "hash": "2880d189e2a06b88aa826d3353070017"
       },
       {
         "id": "9176bd73fef6",
@@ -233,7 +362,11 @@
         "filename": "2015-008 Heisoperatør utsjekk i Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-008%20Heisoperat%C3%B8r%20utsjekk%20i%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 284848
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 284848,
+        "modified": "2025-09-27T12:37:06.136860+00:00",
+        "hash": "c15c326c6f3fe94a09c95b1b1aa40a80"
       },
       {
         "id": "faf4b7e396c5",
@@ -241,7 +374,11 @@
         "filename": "2015-009 Ekstra bemanning fra Bristow UK.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-009%20Ekstra%20bemanning%20fra%20Bristow%20UK.pdf",
         "category": "protokoller",
-        "size": 38903
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38903,
+        "modified": "2025-09-27T12:37:06.137458+00:00",
+        "hash": "cb9fa7b6223e22e1fa015172d797d546"
       },
       {
         "id": "56ea030abacf",
@@ -249,7 +386,11 @@
         "filename": "2015-010 innleie av teknisk personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-010%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 39006
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 39006,
+        "modified": "2025-09-27T12:37:06.138085+00:00",
+        "hash": "a51dd3837272408c58fbc5366682842a"
       },
       {
         "id": "a43fb150bc89",
@@ -257,7 +398,11 @@
         "filename": "2015-010 rev 01 innleie av teknisk personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-010%20rev%2001%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 29812
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 29812,
+        "modified": "2025-09-27T12:37:06.138659+00:00",
+        "hash": "5bfed7706cccaf6a407ca31d76095707"
       },
       {
         "id": "200faf2f8864",
@@ -265,7 +410,11 @@
         "filename": "2015-010 rev 02 innleie av teknisk personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-010%20rev%2002%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 41233
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 41233,
+        "modified": "2025-09-27T12:37:06.139195+00:00",
+        "hash": "1e6e2e2e84612a3b7cfbd7a112ac27d1"
       },
       {
         "id": "30b85ae95ab2",
@@ -273,7 +422,11 @@
         "filename": "2015-011 Innleie av teknisk personell.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-011%20Innleie%20av%20teknisk%20personell.pdf",
         "category": "protokoller",
-        "size": 36053
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 36053,
+        "modified": "2025-09-27T12:37:06.139728+00:00",
+        "hash": "76a4c82003da931d0d3ae2c1459d1f4e"
       },
       {
         "id": "50f15e690ebe",
@@ -281,7 +434,11 @@
         "filename": "2015-012 S92 reiseoppdrag OMV Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-012%20S92%20reiseoppdrag%20OMV%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 108806
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 108806,
+        "modified": "2025-09-27T12:37:06.140304+00:00",
+        "hash": "ff0c031128f9134a463e3d805fa3a1a7"
       },
       {
         "id": "6e1b4b09ac99",
@@ -289,7 +446,11 @@
         "filename": "2015-013 Innleie av teknisk personell.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2015-013%20Innleie%20av%20teknisk%20personell.pdf",
         "category": "protokoller",
-        "size": 38822
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38822,
+        "modified": "2025-09-27T12:37:06.140844+00:00",
+        "hash": "e9176e84e60f9253c116b2bd008f12d6"
       },
       {
         "id": "e4084b57a809",
@@ -297,7 +458,11 @@
         "filename": "2016-001 Deltakelse i SAP prosjekt, Aberdeen UK og Houston USA.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-001%20Deltakelse%20i%20SAP%20prosjekt%2C%20Aberdeen%20UK%20og%20Houston%20USA.pdf",
         "category": "protokoller",
-        "size": 58910
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 58910,
+        "modified": "2025-09-27T12:37:06.141247+00:00",
+        "hash": "7aaa58bfccd32ccd557e7b177cd1e58f"
       },
       {
         "id": "915653506ea4",
@@ -305,7 +470,11 @@
         "filename": "2016-004 -  Ny skiftplan Line Sola.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-004%20-%20%20Ny%20skiftplan%20Line%20Sola.pdf",
         "category": "protokoller",
-        "size": 41174
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 41174,
+        "modified": "2025-09-27T12:37:06.142532+00:00",
+        "hash": "deeae31d206ba86c3322ca25c1b045da"
       },
       {
         "id": "2edc81589869",
@@ -313,7 +482,11 @@
         "filename": "2016-005 Ekstra personell ENI Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-005%20Ekstra%20personell%20ENI%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 86618
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 86618,
+        "modified": "2025-09-27T12:37:06.143020+00:00",
+        "hash": "153d3bfebb6b8cf789ceeb108c5df967"
       },
       {
         "id": "c3f1857d49c8",
@@ -321,7 +494,11 @@
         "filename": "2016-006 Arbeidsordning Silje FestÃ.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-006%20Arbeidsordning%20Silje%20FestA%CC%83.pdf",
         "category": "protokoller",
-        "size": 91906
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 91906,
+        "modified": "2025-09-27T12:37:06.143359+00:00",
+        "hash": "8d0195910570ab8bdf1aec5e86cf7284"
       },
       {
         "id": "d1035277b925",
@@ -329,7 +506,11 @@
         "filename": "2016-007 Arbeidsordning leder MCC.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-007%20Arbeidsordning%20leder%20MCC.pdf",
         "category": "protokoller",
-        "size": 76918
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 76918,
+        "modified": "2025-09-27T12:37:06.143645+00:00",
+        "hash": "4aaee04f43de5a6c5327f3e9a7de127b"
       },
       {
         "id": "a9041b2ccb30",
@@ -337,7 +518,11 @@
         "filename": "2016-008 Innleie av teknisk personell.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-008%20Innleie%20av%20teknisk%20personell.pdf",
         "category": "protokoller",
-        "size": 35324
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 35324,
+        "modified": "2025-09-27T12:37:06.144367+00:00",
+        "hash": "a809ddf60e9c8cf040a0678f45606174"
       },
       {
         "id": "1478c26b1ea2",
@@ -345,15 +530,11 @@
         "filename": "2016-010 operasjon av s92 i Kristiansund for Shell.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-010%20operasjon%20av%20s92%20i%20Kristiansund%20for%20Shell.pdf",
         "category": "protokoller",
-        "size": 41057
-      },
-      {
-        "id": "ef72006c5502",
-        "name": "2016-011 Midlertidig SAR base Bergen",
-        "filename": "2016-011 Midlertidig SAR base Bergen.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-011%20Midlertidig%20SAR%20base%20Bergen.pdf",
-        "category": "protokoller",
-        "size": 99025
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 41057,
+        "modified": "2025-09-27T12:37:06.144812+00:00",
+        "hash": "d9c30d41618ac5fc93b89ba066efce04"
       },
       {
         "id": "562a013a8ce3",
@@ -361,7 +542,23 @@
         "filename": "2016-011 Midlertidig SAR base Bergen(1).pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-011%20Midlertidig%20SAR%20base%20Bergen%281%29.pdf",
         "category": "protokoller",
-        "size": 101753
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 101753,
+        "modified": "2025-09-27T12:37:06.145199+00:00",
+        "hash": "4b09c9846cfc1e77d49985e5ca3cd9e1"
+      },
+      {
+        "id": "ef72006c5502",
+        "name": "2016-011 Midlertidig SAR base Bergen",
+        "filename": "2016-011 Midlertidig SAR base Bergen.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-011%20Midlertidig%20SAR%20base%20Bergen.pdf",
+        "category": "protokoller",
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 99025,
+        "modified": "2025-09-27T12:37:06.145579+00:00",
+        "hash": "bc69b65cf5aee96ed8a3afcebad5eda3"
       },
       {
         "id": "2638ccb7ab30",
@@ -369,7 +566,11 @@
         "filename": "2016-012 Innleie av teknisk personell.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-012%20Innleie%20av%20teknisk%20personell.pdf",
         "category": "protokoller",
-        "size": 36251
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 36251,
+        "modified": "2025-09-27T12:37:06.146158+00:00",
+        "hash": "ea674ea624a6d1c61e0677860fe57e39"
       },
       {
         "id": "bfdb950c55eb",
@@ -377,15 +578,11 @@
         "filename": "2016-013 innleie av teknisk personell fra Bristow ABZ.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-013%20innleie%20av%20teknisk%20personell%20fra%20Bristow%20ABZ.pdf",
         "category": "protokoller",
-        "size": 32659
-      },
-      {
-        "id": "bbd0296e3c97",
-        "name": "2016-014 innleie av teknisk personell fra First people solution",
-        "filename": "2016-014 innleie av teknisk personell fra First people solution.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-014%20innleie%20av%20teknisk%20personell%20fra%20First%20people%20solution.pdf",
-        "category": "protokoller",
-        "size": 38743
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 32659,
+        "modified": "2025-09-27T12:37:06.146560+00:00",
+        "hash": "4ff71fc22675d15c80809dcfa006b94a"
       },
       {
         "id": "5cf533ef85be",
@@ -393,7 +590,23 @@
         "filename": "2016-014 innleie av teknisk personell fra First people solution rev 1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-014%20innleie%20av%20teknisk%20personell%20fra%20First%20people%20solution%20rev%201.pdf",
         "category": "protokoller",
-        "size": 35837
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 35837,
+        "modified": "2025-09-27T12:37:06.146815+00:00",
+        "hash": "e10dae5564f4a189367533c02f855838"
+      },
+      {
+        "id": "bbd0296e3c97",
+        "name": "2016-014 innleie av teknisk personell fra First people solution",
+        "filename": "2016-014 innleie av teknisk personell fra First people solution.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-014%20innleie%20av%20teknisk%20personell%20fra%20First%20people%20solution.pdf",
+        "category": "protokoller",
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38743,
+        "modified": "2025-09-27T12:37:06.147541+00:00",
+        "hash": "bc2c7031a18c6f3ac40f0b6e1e4c261d"
       },
       {
         "id": "cf4c056bdba5",
@@ -401,7 +614,11 @@
         "filename": "2016-015 Ekstra personell i henhold til Â15 10 i SÃravtalen for hjelp i Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-015%20Ekstra%20personell%20i%20henhold%20til%20A%CC%8215%2010%20i%20SA%CC%83ravtalen%20for%20hjelp%20i%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 96806
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 96806,
+        "modified": "2025-09-27T12:37:06.147895+00:00",
+        "hash": "98254b5727dbd07f6edd54f797e04d54"
       },
       {
         "id": "bdc154189489",
@@ -409,7 +626,11 @@
         "filename": "2016-016 Arbeidsordning midlertidig Offshore base Statfjord med SAR-Shuttle.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-016%20Arbeidsordning%20midlertidig%20Offshore%20base%20Statfjord%20med%20SAR-Shuttle.pdf",
         "category": "protokoller",
-        "size": 134596
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 134596,
+        "modified": "2025-09-27T12:37:06.148355+00:00",
+        "hash": "8e10b274ae8f054a3280586ae17cecbb"
       },
       {
         "id": "8d89d7cb1579",
@@ -417,7 +638,11 @@
         "filename": "2016-017 Arbeidsordning for base Florø.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-017%20Arbeidsordning%20for%20base%20Flor%C3%B8.pdf",
         "category": "protokoller",
-        "size": 96982
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 96982,
+        "modified": "2025-09-27T12:37:06.149452+00:00",
+        "hash": "434584b13025b0ddb69bacc9642c21f8"
       },
       {
         "id": "9507a868623c",
@@ -425,7 +650,11 @@
         "filename": "2016-018 innleie av teknisk personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-018%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 37515
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 37515,
+        "modified": "2025-09-27T12:37:06.149977+00:00",
+        "hash": "bc2eb969f4b881e611a4172e8090e93e"
       },
       {
         "id": "4c012cb30d3a",
@@ -433,15 +662,11 @@
         "filename": "2016-019 innleie av teknisk personell fra Heli-One.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-019%20innleie%20av%20teknisk%20personell%20fra%20Heli-One.pdf",
         "category": "protokoller",
-        "size": 39512
-      },
-      {
-        "id": "20a8147a8ed3",
-        "name": "2016-020 innleie av teknisk personell fra Bristow UK",
-        "filename": "2016-020 innleie av teknisk personell fra Bristow UK.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-020%20innleie%20av%20teknisk%20personell%20fra%20Bristow%20UK.pdf",
-        "category": "protokoller",
-        "size": 34231
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 39512,
+        "modified": "2025-09-27T12:37:06.150664+00:00",
+        "hash": "428410f314e611995efae86b767f4d7b"
       },
       {
         "id": "051e9d8b652f",
@@ -449,7 +674,23 @@
         "filename": "2016-020 innleie av teknisk personell fra Bristow UK revisjon 1-1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-020%20innleie%20av%20teknisk%20personell%20fra%20Bristow%20UK%20revisjon%201-1.pdf",
         "category": "protokoller",
-        "size": 42186
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 42186,
+        "modified": "2025-09-27T12:37:06.151054+00:00",
+        "hash": "52c98a90b60b216e8cf4521c998c5b02"
+      },
+      {
+        "id": "20a8147a8ed3",
+        "name": "2016-020 innleie av teknisk personell fra Bristow UK",
+        "filename": "2016-020 innleie av teknisk personell fra Bristow UK.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2016-020%20innleie%20av%20teknisk%20personell%20fra%20Bristow%20UK.pdf",
+        "category": "protokoller",
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 34231,
+        "modified": "2025-09-27T12:37:06.151634+00:00",
+        "hash": "8175a89481259dc42e10ffbf43db71f8"
       },
       {
         "id": "7c976cce2e15",
@@ -457,7 +698,11 @@
         "filename": "2017-001 Nuno Nogueira - Sporadisk reising i forbindelse med ansettelse.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-001%20Nuno%20Nogueira%20-%20Sporadisk%20reising%20i%20forbindelse%20med%20ansettelse.pdf",
         "category": "protokoller",
-        "size": 30110
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 30110,
+        "modified": "2025-09-27T12:37:06.152246+00:00",
+        "hash": "e0270c8bd08d685453f6c77edd357ba8"
       },
       {
         "id": "47098bb1be19",
@@ -465,7 +710,11 @@
         "filename": "2017-002 George Douglas - Sporadisk reising i forbindelse med ansettelse.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-002%20George%20Douglas%20-%20Sporadisk%20reising%20i%20forbindelse%20med%20ansettelse.pdf",
         "category": "protokoller",
-        "size": 27684
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 27684,
+        "modified": "2025-09-27T12:37:06.152685+00:00",
+        "hash": "334c2841964533a4870ba420f2cd5246"
       },
       {
         "id": "67fe33eb702f",
@@ -473,7 +722,11 @@
         "filename": "2017-003 Seniormidler.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-003%20Seniormidler.pdf",
         "category": "protokoller",
-        "size": 49613
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 49613,
+        "modified": "2025-09-27T12:37:06.153149+00:00",
+        "hash": "f157032c29047b247e40ce7b792aff96"
       },
       {
         "id": "dd163ac2fa16",
@@ -481,7 +734,11 @@
         "filename": "2017-004 Medevac i Hammerfest.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-004%20Medevac%20i%20Hammerfest.pdf",
         "category": "protokoller",
-        "size": 28257
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 28257,
+        "modified": "2025-09-27T12:37:06.153487+00:00",
+        "hash": "c4723574f11cdead2fb06ed78bde3ac8"
       },
       {
         "id": "915435cb02d1",
@@ -489,7 +746,11 @@
         "filename": "2017-005 avsetning av seniormidler.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-005%20avsetning%20av%20seniormidler.pdf",
         "category": "protokoller",
-        "size": 21554
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 21554,
+        "modified": "2025-09-27T12:37:06.153864+00:00",
+        "hash": "01ff84d5a660a5ee56fd573db666a35a"
       },
       {
         "id": "d22b909f67ca",
@@ -497,15 +758,11 @@
         "filename": "2017-006 Avsetning av seniormidler.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-006%20Avsetning%20av%20seniormidler.pdf",
         "category": "protokoller",
-        "size": 23308
-      },
-      {
-        "id": "5c7bda1e491f",
-        "name": "2017-007 innleie av teknisk personell fra Lodahl",
-        "filename": "2017-007 innleie av teknisk personell fra Lodahl.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-007%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
-        "category": "protokoller",
-        "size": 38794
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 23308,
+        "modified": "2025-09-27T12:37:06.154284+00:00",
+        "hash": "960b365ff3dbb79fda63df615f23eb5e"
       },
       {
         "id": "ce3db8c8b9c8",
@@ -513,7 +770,11 @@
         "filename": "2017-007 innleie av teknisk personell fra Lodahl revisjon 1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-007%20innleie%20av%20teknisk%20personell%20fra%20Lodahl%20revisjon%201.pdf",
         "category": "protokoller",
-        "size": 43980
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 43980,
+        "modified": "2025-09-27T12:37:06.154713+00:00",
+        "hash": "151ffbc1712600175ccc3585da53a866"
       },
       {
         "id": "7864924dfa4d",
@@ -521,7 +782,23 @@
         "filename": "2017-007 innleie av teknisk personell fra Lodahl(1).pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-007%20innleie%20av%20teknisk%20personell%20fra%20Lodahl%281%29.pdf",
         "category": "protokoller",
-        "size": 38794
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38794,
+        "modified": "2025-09-27T12:37:06.155058+00:00",
+        "hash": "c4034c3cdc4f2d36c3d92a950535700f"
+      },
+      {
+        "id": "5c7bda1e491f",
+        "name": "2017-007 innleie av teknisk personell fra Lodahl",
+        "filename": "2017-007 innleie av teknisk personell fra Lodahl.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-007%20innleie%20av%20teknisk%20personell%20fra%20Lodahl.pdf",
+        "category": "protokoller",
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 38794,
+        "modified": "2025-09-27T12:37:06.155408+00:00",
+        "hash": "c4034c3cdc4f2d36c3d92a950535700f"
       },
       {
         "id": "b65fdbca5d12",
@@ -529,7 +806,11 @@
         "filename": "2017-009 innleie av teknisk personell fra Lodahl-1.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-009%20innleie%20av%20teknisk%20personell%20fra%20Lodahl-1.pdf",
         "category": "protokoller",
-        "size": 43126
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 43126,
+        "modified": "2025-09-27T12:37:06.155735+00:00",
+        "hash": "bb39ee0ea2bdc854a0293372009de953"
       },
       {
         "id": "114453901e22",
@@ -537,7 +818,11 @@
         "filename": "2017-009 rev 1 - Innleie av personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-009%20rev%201%20-%20Innleie%20av%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 42789
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 42789,
+        "modified": "2025-09-27T12:37:06.156412+00:00",
+        "hash": "f49ddb8886322bc85d7436e82b91eac4"
       },
       {
         "id": "525d1bd45072",
@@ -545,7 +830,11 @@
         "filename": "2017-009 rev 2 - Innleie av personell fra Lodahl.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-009%20rev%202%20-%20Innleie%20av%20personell%20fra%20Lodahl.pdf",
         "category": "protokoller",
-        "size": 47767
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 47767,
+        "modified": "2025-09-27T12:37:06.156767+00:00",
+        "hash": "a0250b287db8ac7e24b6fe9bd44fae3f"
       },
       {
         "id": "cc9598ba6d8c",
@@ -553,7 +842,11 @@
         "filename": "2017-010 S-92 reiseoppdrag for Statoil i Kirkenes.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-010%20S-92%20reiseoppdrag%20for%20Statoil%20i%20Kirkenes.pdf",
         "category": "protokoller",
-        "size": 89384
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 89384,
+        "modified": "2025-09-27T12:37:06.157095+00:00",
+        "hash": "ae0c4a2099a4219c93e865ad4c9ba526"
       },
       {
         "id": "a52b3ff1d16e",
@@ -561,7 +854,11 @@
         "filename": "2017-011 arbeidsordning Justyn Bishop.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-011%20arbeidsordning%20Justyn%20Bishop.pdf",
         "category": "protokoller",
-        "size": 67420
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 67420,
+        "modified": "2025-09-27T12:37:06.157426+00:00",
+        "hash": "7e10d462a345dd3b19facf34c8d1c20d"
       },
       {
         "id": "0d528e44af99",
@@ -569,7 +866,11 @@
         "filename": "2017-014 fravikelse fra Â12.2 i sÃravtalen.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-014%20fravikelse%20fra%20A%CC%8212.2%20i%20sA%CC%83ravtalen.pdf",
         "category": "protokoller",
-        "size": 25854
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 25854,
+        "modified": "2025-09-27T12:37:06.157783+00:00",
+        "hash": "ea2e833ec6510722070794870340e339"
       },
       {
         "id": "df0d6688b89e",
@@ -577,7 +878,11 @@
         "filename": "2017-016 operasjon av s-92 i Kristiansund for OMV.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2017-016%20operasjon%20av%20s-92%20i%20Kristiansund%20for%20OMV.pdf",
         "category": "protokoller",
-        "size": 79891
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 79891,
+        "modified": "2025-09-27T12:37:06.158148+00:00",
+        "hash": "ed03a0731a415a0feec4f7e716639faf"
       },
       {
         "id": "1767b2741bea",
@@ -585,7 +890,11 @@
         "filename": "2018-001 - Chief Engineer South.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/2018-001%20-%20Chief%20Engineer%20South.pdf",
         "category": "protokoller",
-        "size": 29688
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 29688,
+        "modified": "2025-09-27T12:37:06.158432+00:00",
+        "hash": "304281f61625b5a631a34c3cb201c81b"
       },
       {
         "id": "7877cec594b7",
@@ -593,7 +902,11 @@
         "filename": "Instruktører.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Instrukt%C3%B8rer.pdf",
         "category": "protokoller",
-        "size": 34346
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 34346,
+        "modified": "2025-09-27T12:37:06.158870+00:00",
+        "hash": "544fded10ff414f9a57f6708d2c2c8c2"
       },
       {
         "id": "b0ee715acaef",
@@ -601,7 +914,11 @@
         "filename": "Protokoll - Pensjon.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Protokoll%20-%20Pensjon.pdf",
         "category": "protokoller",
-        "size": 232085
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 232085,
+        "modified": "2025-09-27T12:37:06.159270+00:00",
+        "hash": "0f59c35478c4381a0420f6ca569a28b5"
       },
       {
         "id": "348dd2c6c3a4",
@@ -609,7 +926,11 @@
         "filename": "Protokoll 2010-006 Lokale konsekvenser av likelønnspott.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Protokoll%202010-006%20Lokale%20konsekvenser%20av%20likel%C3%B8nnspott.pdf",
         "category": "protokoller",
-        "size": 32461
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 32461,
+        "modified": "2025-09-27T12:37:06.159762+00:00",
+        "hash": "6cfd45442c61fd83d33843729e7c1d4d"
       },
       {
         "id": "7afb192eadc9",
@@ -617,7 +938,11 @@
         "filename": "Protokoll 2017-006 Avsettning av seniormidler.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Protokoll%202017-006%20Avsettning%20av%20seniormidler.pdf",
         "category": "protokoller",
-        "size": 22173
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 22173,
+        "modified": "2025-09-27T12:37:06.160074+00:00",
+        "hash": "1d883ba617d6e970a4563ce167b108d9"
       },
       {
         "id": "d69004f120c2",
@@ -625,7 +950,11 @@
         "filename": "Protokoll Generalforsamling BNTF 2014.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Protokoll%20Generalforsamling%20BNTF%202014.pdf",
         "category": "protokoller",
-        "size": 79665
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 79665,
+        "modified": "2025-09-27T12:37:06.160552+00:00",
+        "hash": "971706f4740d8afad5cf5d7845939c16"
       },
       {
         "id": "5f83d305cc39",
@@ -633,7 +962,11 @@
         "filename": "Protokoll Styremøte BNTF 24.03.15.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Protokoll%20Styrem%C3%B8te%20BNTF%2024.03.15.pdf",
         "category": "protokoller",
-        "size": 17628
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 17628,
+        "modified": "2025-09-27T12:37:06.160881+00:00",
+        "hash": "09d0022ad8765efe59e7150717ae6798"
       },
       {
         "id": "05721e4613a7",
@@ -641,7 +974,11 @@
         "filename": "Scanned from a Xerox Multifunction Printer.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Scanned%20from%20a%20Xerox%20Multifunction%20Printer.pdf",
         "category": "protokoller",
-        "size": 77121
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 77121,
+        "modified": "2025-09-27T12:37:06.161776+00:00",
+        "hash": "010ab1ba21530bd569b746a68343dfc0"
       },
       {
         "id": "ab72304377ec",
@@ -649,7 +986,11 @@
         "filename": "Skiftplan Line SVG 3 skift.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/protokoller/Skiftplan%20Line%20SVG%203%20skift.pdf",
         "category": "protokoller",
-        "size": 26347
+        "categoryDisplayName": "Protokoller",
+        "icon": "📋",
+        "size": 26347,
+        "modified": "2025-09-27T12:37:06.162038+00:00",
+        "hash": "471eb3f9aefb579a207e01cdbe6d5ddc"
       }
     ],
     "vedtekter": [
@@ -659,17 +1000,39 @@
         "filename": "Vedtekter 2023-2024.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/vedtekter/Vedtekter%202023-2024.pdf",
         "category": "vedtekter",
-        "size": 204080
+        "categoryDisplayName": "Vedtekter",
+        "icon": "📜",
+        "size": 204080,
+        "modified": "2025-09-27T12:37:06.172438+00:00",
+        "hash": "34efa7d5d158ff2ed97f1b61c2f7c56f"
       }
     ],
-    "agreements": [
+    "særavtale_bntf": [
       {
-        "id": "6f47cfe601a8",
+        "id": "8da5fb758827",
         "name": "Særavtale",
         "filename": "Særavtale.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/agreements/S%C3%A6ravtale.pdf",
-        "category": "agreements",
-        "size": 3665002
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/særavtale_bntf/S%C3%A6ravtale.pdf",
+        "category": "særavtale_bntf",
+        "categoryDisplayName": "Særavtale BNTF",
+        "icon": "🚁",
+        "size": 3665002,
+        "modified": "2025-09-27T12:37:06.186508+00:00",
+        "hash": "0ee4ffe3316d9377b1658e869166bcaf"
+      }
+    ],
+    "hovedavtalen": [
+      {
+        "id": "a6da42f58b35",
+        "name": "Hovedavtalen-2022-2025",
+        "filename": "Hovedavtalen-2022-2025.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/hovedavtalen/Hovedavtalen-2022-2025.pdf",
+        "category": "hovedavtalen",
+        "categoryDisplayName": "Hovedavtalen YS/NHO",
+        "icon": "🏢",
+        "size": 440816,
+        "modified": "2025-09-27T12:37:06.181725+00:00",
+        "hash": "92f20d3d0b20f2e445ccd692ed1fde3b"
       }
     ],
     "overenskomsten": [
@@ -679,9 +1042,25 @@
         "filename": "overenskomst.pdf",
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/overenskomsten/overenskomst.pdf",
         "category": "overenskomsten",
-        "size": 1163158
+        "categoryDisplayName": "Overenskomsten",
+        "icon": "📄",
+        "size": 1163158,
+        "modified": "2025-09-27T12:37:06.176857+00:00",
+        "hash": "f650b0cc7a4e7a0c9e16ba45edeec8e4"
       }
     ],
     "other": []
+  },
+  "statistics": {
+    "totalDocuments": 85,
+    "totalSize": 11871981,
+    "categoryCounts": {
+      "protokoller": 81,
+      "vedtekter": 1,
+      "særavtale_bntf": 1,
+      "hovedavtalen": 1,
+      "overenskomsten": 1,
+      "other": 0
+    }
   }
 }
