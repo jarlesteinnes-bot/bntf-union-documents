@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T12:53:28Z",
+  "lastUpdated": "2025-09-27T16:02:47Z",
   "baseUrl": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main",
   "documents": {
     "protokoller": [
@@ -652,7 +652,16 @@
         "size": 26347
       }
     ],
-    "vedtekter": [],
+    "vedtekter": [
+      {
+        "id": "fb78ea8308a4",
+        "name": "Vedtekter 2023-2024",
+        "filename": "Vedtekter 2023-2024.pdf",
+        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/vedtekter/Vedtekter%202023-2024.pdf",
+        "category": "vedtekter",
+        "size": 204080
+      }
+    ],
     "agreements": [],
     "policies": [],
     "overenskomsten": [],
@@ -672,14 +681,6 @@
         "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/S%C3%A6ravtale.pdf",
         "category": "other",
         "size": 3665002
-      },
-      {
-        "id": "fb78ea8308a4",
-        "name": "Vedtekter 2023-2024",
-        "filename": "Vedtekter 2023-2024.pdf",
-        "url": "https://raw.githubusercontent.com/jarlesteinnes-bot/bntf-union-documents/main/other/Vedtekter%202023-2024.pdf",
-        "category": "other",
-        "size": 204080
       },
       {
         "id": "f68e8ed92e03",
